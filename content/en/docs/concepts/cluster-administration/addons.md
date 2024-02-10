@@ -63,7 +63,7 @@ installation instructions. The list does not try to be exhaustive.
   multiple network support in Kubernetes to support all CNI plugins
   (e.g. Calico, Cilium, Contiv, Flannel), in addition to SRIOV, DPDK, OVS-DPDK and
   VPP based workloads in Kubernetes.
-* [OVN-Kubernetes](https://github.com/ovn-org/ovn-kubernetes/) is a networking
+* [OVN-Kubernetes](https://github.com/kubeovn/kube-ovn) is a networking
   provider for Kubernetes based on [OVN (Open Virtual Network)](https://github.com/ovn-org/ovn/),
   a virtual networking implementation that came out of the Open vSwitch (OVS) project.
   OVN-Kubernetes provides an overlay based networking implementation for Kubernetes,
